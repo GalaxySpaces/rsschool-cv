@@ -61,4 +61,4 @@ Motorsport, music, photography, books, sports.
 
 #### Personal qualities
 
-Ability to work in a team, organizational skills, good leadership skills, non-conflict, communication skills, responsibility, reasonable level of pedantry
+Ability to work in a team, organizational skills, good leadership skills, non-conflict, communication skills, responsibility.
