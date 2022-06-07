@@ -1,22 +1,22 @@
 # 
 
 
-# **[rsschool-cv](https://Galaxy-spaces.github.io/rsschool-cv/)**
+# **[rsschool-cv](https://Galaxyspaces.github.io/rsschool-cv/)**
 
 # **Dmytro Bondarenko**
 
-## **Contacts**[](https://Galaxy-spaces.github.io/rsschool-cv#contacts)
+## **Contacts**[](https://Galaxyspaces.github.io/rsschool-cv#contacts)
 
 -   **Location:**  Kyiv, Ukraine
 -   **Phone:**  +380 67 280-42-70
 -   **Email:**  2804270@gmail.com
--   **GitHub:**  [galaxy-spaces](https://github.com/galaxy-spaces)
+-   **GitHub:**  [galaxyspaces](https://github.com/galaxyspaces)
 
-## **About Me**[](https://galaxy-spaces.github.io/rsschool-cv/cv#about-me)
+## **About Me**[](https://galaxyspaces.github.io/rsschool-cv/cv#about-me)
 
 I am new in IT and would like to raise my knowledge and skills to the right level to get a job offer.
 
-## **Skills**[](https://galaxy-spaces.github.io/rsschool-cv/cv#skills)
+## **Skills**[](https://galaxyspaces.github.io/rsschool-cv/cv#skills)
 
 -   HTML
 -   CSS
@@ -49,7 +49,7 @@ www.d-drive.com.ua
     NLP (Kyiv)
 
 
-## **English**[](https://galaxy-spaces.github.io/rsschool-cv/cv#english)
+## **English**[](https://galaxyspaces.github.io/rsschool-cv/cv#english)
 
 **A1**  (I took several tests to determine my level of English)
 
@@ -61,4 +61,4 @@ Motorsport, music, photography, books, sports.
 
 #### Personal qualities
 
-Ability to work in a team, organizational skills, good leadership skills, non-conflict, communication skills, responsibility.
+Ability to work in a team, organizational skills, good leadership skills, non-conflict, communication skills, responsibility, reasonable level of pedantry
