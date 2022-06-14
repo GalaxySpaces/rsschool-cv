@@ -18,7 +18,6 @@ I am new in IT and would like to raise my knowledge and skills to the right leve
 
 ## **Skills**[](https://galaxyspaces.github.io/rsschool-cv/cv#skills)
 
-
 -   HTML
 -   CSS
 -   JavaScript (Basic)
