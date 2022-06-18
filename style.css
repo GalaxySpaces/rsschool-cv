@@ -1,0 +1,19 @@
+m10 + Tab = margin: 10px;
+p10 + Tab = padding: 10px;
+bgc + Tab = background-color: gray
+bgi + Tab = background-image: url();
+body {
+  font-family: 'Roboto', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
