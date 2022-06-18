@@ -12,6 +12,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: stretch;
 }
 .container {
   max-width: 1440px;
@@ -24,11 +25,6 @@ body {
   border-radius: 50%;
   border: 5px solid #6358a6;
   margin-bottom: 30px;
-}
-.nav-list {
-  display: center;
-  justify-content: flex-end;
-  align-items: center;
 }
 html {
   scroll-behavior: smooth; 
@@ -117,6 +113,12 @@ html {
   height: 350px;
   object-fit: cover;
   border-radius: 50%;
-  border: 5px solid #7e7d82;
+  border: 5px solid #7d827f;
   margin-bottom: 30px;
+}
+
+.aside{
+  flex: 50 50 100%;
+  max-width: 100%;
+  background-color: rgb(237, 239, 246);
 }
