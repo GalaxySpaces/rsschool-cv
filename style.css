@@ -9,6 +9,7 @@ body {
   box-sizing: border-box;
 }
 body {
+  padding-left: 20px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -89,7 +90,7 @@ html {
 .rss {
   width: 121px;
   height: 45px;
-  background-image: url("./assets/svg/rss.svg");
+  background-image: url(".rss.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
