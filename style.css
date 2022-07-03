@@ -27,6 +27,9 @@ body {
   border: 5px solid #6358a6;
   margin-bottom: 30px;
 }
+.section-profile-logo:hover {
+  
+}
 html {
   scroll-behavior: smooth; 
 }
