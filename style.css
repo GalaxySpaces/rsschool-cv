@@ -1,0 +1,143 @@
+m10 + Tab = margin: 10px;
+p10 + Tab = padding: 10px;
+bgc + Tab = background-color: gray
+bgi + Tab = background-image: url();
+body {
+  font-family: 'Roboto', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  background-color: rgb(237, 239, 246);
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.section-profile-logo {
+  
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #6358a6;
+  margin-bottom: 30px;
+}
+.section-profile-logo:hover {
+  
+}
+html {
+  scroll-behavior: smooth; 
+}
+.nav-list {
+  list-style: none;
+}
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+.nav-link {
+  transition: 4.3s;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.section-item a {
+  color: #829985;
+  text-decoration: none;  
+  transition: color 0.5s;
+}
+.section-item a:hover {
+  color: #4d2323;
+}
+.main-container {
+  
+  display: flex;
+  
+}
+
+
+  .section {
+    width: 100%;
+    background-color: rgb(237, 239, 246);
+  }
+
+.section-title {
+  font-size: 28px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #8b8f8b;
+}
+.link {
+  text-decoration: none;
+  color: #829985;
+  transition: color 0.5s;
+}
+
+.link:hover {
+  color: #5d7260;
+}
+.rss {
+  width: 121px;
+  height: 45px;
+  background-image: url(".rss.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.section-item {
+  position: relative;
+  padding-left: 20px;
+}
+
+.section-item::before {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 0px;
+  width: 10px;
+  height:10px; 
+  border: 1px solid #829985;
+  border-radius: 1000%;
+}
+.section-profile-photo {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #7d827f;
+  margin-bottom: 30px;
+}
+
+.aside{
+  flex: 50 50 100%;
+  max-width: 100%;
+  background-color: rgb(237, 239, 246);
+}
+.article {
+  padding: 10%;
+  font-size: 23px;
+  background-color: rgb(237, 239, 246);
+}
+.header-container{
+  background-color: rgb(237, 239, 246);
+}
+
+.pre {
+  font-size: large;
+}
